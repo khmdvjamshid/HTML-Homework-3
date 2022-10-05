@@ -1,0 +1,38 @@
+div.container-1 {
+    text-align: center;
+}
+
+ul.Mul {
+    display: inline-block;
+    text-align: left;
+}
+
+div.first_b1 {
+    display: inline-block;
+    background-color: brown;
+    color: azure;
+    font-size: 0.9rem;
+    position:absolute; 
+    right: 850px;
+}
+
+div.container-2 {
+    text-align: center;
+}
+
+ol.Mol {
+    display: inline-grid;
+    text-align: left;
+    position: relative;
+    left: 300px;
+}
+
+div.first_b2 {
+    display: inline-block;
+    background-color: brown;
+    color: azure;
+    font-size: 0.9rem;
+    position:absolute; 
+    right: 860px;
+}
+
